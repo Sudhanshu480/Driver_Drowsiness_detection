@@ -128,9 +128,5 @@ Visual and audio alerts are generated when drowsiness signs are consistently det
 
 ## Contributing
 
-Contributions are welcome! Please feel free to fork this repository and submit pull requests to propose improvements or new features. This project is actively maintained and continuously enhanced for improved detection and usability.
-
-## Contributing
-
 We welcome contributions! Please feel free to fork this repository and submit pull requests to propose improvements or add new features. This project is ongoing, and we are open to ideas on enhancing the detection capabilities and user experience.
 
