@@ -1,6 +1,6 @@
 # Driver Drowsiness Detection Model
 
-Welcome to the Driver Drowsiness Detection Model project, developed in collaboration with [Aayushii](https://github.com/aayushii31) and myself. This project is focused on detecting driver drowsiness in real-time using computer vision and deep learning. By tracking facial cues such as eye closure and yawning, the model provides timely alerts to help prevent drowsy driving incidents.
+Welcome to the Driver Drowsiness Detection Model project which I have developed developed in collaboration with [Aayushii](https://github.com/aayushii31). This project is focused on detecting driver drowsiness in real-time using computer vision and deep learning. By tracking facial cues such as eye closure and yawning, the model provides timely alerts to help prevent drowsy driving incidents.
 
 We are actively working on this project, continuously improving its accuracy and responsiveness, and exploring additional features for enhanced usability.
 
